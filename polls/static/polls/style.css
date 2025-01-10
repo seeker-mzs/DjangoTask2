@@ -7,7 +7,7 @@ li a:hover {
 }
 
 body {
-  background: white url("images/home-top.png") no-repeat;
+  background: white url("images/background.jpg") no-repeat;
   background-size: cover;
   width: 100vw;
   height: 100vh;
